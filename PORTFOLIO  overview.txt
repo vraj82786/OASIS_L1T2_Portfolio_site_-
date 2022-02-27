@@ -1,0 +1,43 @@
+NAVBAR  : aside vertical bar 
+
+all components networked in blocks !!
+
+what i do ?
+want more to know ?
+skills i have ?
+i have done ?
+get to me ?
+
+
+how you look ?
+profile photo
+
+
+what i do ?
+web developer
+
+tell us more about you ?
+DOB : 30/03/2001
+Education : BBA-CA
+home town : DELHI
+Current city : MUMBAI
+hobbies : Writing
+
+skills you have ?
+Front end 
+back end
+tools & tech
+
+projects you had done ?
+weather app
+Expense tracker
+Shop sales management system
+Library management system
+
+
+how to contact you ?
+
+mobile no
+email id
+social links
+

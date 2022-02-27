@@ -1,0 +1,19 @@
+
+/* -- PROJECTS STYLES -- */
+.pubble{}
+.pubble:nth-child()::before{}
+.pubble:nth-child()::before{}
+.pubble:nth-child()::before{}
+.pubble:nth-child()::after{}
+.pubble:nth-child()::after{}
+.pubble:nth-child()::after{}
+.pandy{}
+.pandy:nth-child()::before{}
+.pandy:nth-child()::before{}
+.pandy:nth-child()::after{}
+.pandy:nth-child()::after{}
+.piclair{}
+.piclair:nth-child()::after{}
+.piclair:nth-child()::after{}
+.piclair:nth-child()::before{}
+.piclair:nth-child()::before{}
